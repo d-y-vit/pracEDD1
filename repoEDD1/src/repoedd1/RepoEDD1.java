@@ -18,6 +18,7 @@ public class RepoEDD1 {
     	System.out.println ("IDE Eclipse");
     	System.out.println("Segona modificació des d'Eclipse");
 //>>>>>>> origin/master
+        System.out.println("Acabada de crear la Branca de NetBeans");
     }
     
 }
